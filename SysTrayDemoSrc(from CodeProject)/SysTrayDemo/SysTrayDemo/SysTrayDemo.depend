@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1178935212 source:e:\#extra\lab\systraydemosrc\systraydemo\systraydemo\stdafx.cpp
+	"stdafx.h"
+
+1178991222 e:\#extra\lab\systraydemosrc\systraydemo\systraydemo\stdafx.h
+	<windows.h>
+	<shellapi.h>
+	<stdlib.h>
+	<malloc.h>
+	<memory.h>
+	<tchar.h>
+
+1179152424 source:e:\#extra\lab\systraydemosrc\systraydemo\systraydemo\systraydemo.cpp
+	"stdafx.h"
+	"SysTrayDemo.h"
+
+1178935212 e:\#extra\lab\systraydemosrc\systraydemo\systraydemo\systraydemo.h
+	"resource.h"
+
+1179056944 e:\#extra\lab\systraydemosrc\systraydemo\systraydemo\resource.h
+
+1179149896 source:e:\#extra\lab\systraydemosrc\systraydemo\systraydemo\systraydemo.rc
+	"resource.h"
+	"windows.h"
+
